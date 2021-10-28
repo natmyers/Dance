@@ -1,0 +1,36 @@
+
+.fullpage {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  font-size: 55px;
+  background-color: #C9CCD5;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  background-color: #C9CCD5;
+}
+
+.links{
+  position: absolute;
+  bottom:100;
+  left:100;
+}
